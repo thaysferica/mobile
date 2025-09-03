@@ -10,6 +10,6 @@ public class aula {
         livro.descricao = "Uma obra literaria de fantasia";
         LineBorder.isbn = "846899503";
         livro.preco = 39.90;
-        livro.autor = ""
+        livro.autor = "";
     }
 }
